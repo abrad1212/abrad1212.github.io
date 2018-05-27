@@ -5,5 +5,4 @@
 	- [Steam](https://steamcommunity.com/id/abrad1212)
 
 # Projects
-**Projects I'm working on:**
-- A Chatbot with [Google's subsidiary API.AI](https://api.ai/)
+**TODO:** Add projects I'm working on.
